@@ -1,5 +1,69 @@
 Creative Commons Legal Code
-
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>🔥东南亚一手源头｜至尊排面🔥</title>
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{
+  background:#050505;
+  color:#fff;
+  font-family:system-ui,-apple-system,sans-serif;
+  min-height:100vh;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  padding:26px;
+  text-align:center;
+}
+.box{
+  background:#111111;
+  border:1px solid #cc9944;
+  padding:44px 28px;
+  border-radius:18px;
+  max-width:540px;
+  width:100%;
+}
+.title{
+  font-size:22px;
+  color:#ffcc44;
+  font-weight:bold;
+  margin-bottom:18px;
+  line-height:1.6;
+}
+.line{
+  font-size:17px;
+  line-height:1.9;
+  margin:10px 0;
+}
+.tags{
+  color:#aaa;
+  font-size:15px;
+  margin:14px 0 20px;
+}
+.warn{
+  color:#ff5555;
+  font-weight:bold;
+  margin-top:22px;
+  font-size:16px;
+}
+</style>
+</head>
+<body>
+<div class="box">
+<div class="title">🔥东南亚一手源头｜至尊排面🔥</div>
+<div class="line">💎文玩收藏 · 🌿养生滋补</div>
+<div class="tags">#野货 #养生 #文玩 #收藏品 #滋补</div>
+<div class="line">✅你刚好需要，我刚好有货</div>
+<div class="line">🤝批零均可｜中缅柬越发货｜丢损包赔</div>
+<div class="line">唯一客服：<strong>@zao88888889</strong></div>
+<div class="line">备用频道：<strong>@faliyehuo21217</strong></div>
+<div class="warn">⚠️无二号客服，谨防骗子！</div>
+</div>
+</body>
+</html>
 CC0 1.0 Universal
 
     CREATIVE COMMONS CORPORATION IS NOT A LAW FIRM AND DOES NOT PROVIDE
